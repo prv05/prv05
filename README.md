@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Pratham and I love building real-world AI products that people can actually use.</h2>
+<h2 align="left">Hi 👋! My name is  Naman The Great and I love building real-world AI products that people can actually use.</h2>
 
 ###
 
