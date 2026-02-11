@@ -9,9 +9,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prv05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prv05&layout=compact&langs_count=5&theme=dracula" height="150" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prv05&show_icons=true&theme=dracula" height="150"/>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prv05&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ###
