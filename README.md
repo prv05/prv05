@@ -7,9 +7,8 @@
 </div>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=prv05&show_icons=true&theme=dracula" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prv05&layout=compact&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prv05&show_icons=true&theme=dracula&v=1" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prv05&layout=compact&theme=dracula&v=1" height="150"/>
 
 
 ###
